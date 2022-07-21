@@ -13,24 +13,24 @@ To decrease this issue we will use various predictive models to see how accurate
 ## Getting Started
 
 ### Methodology 
-(Thuersday 21 july)
-<b> 1. EDA
+
+<b> 1. EDA (Thuersday 21 july)
 - About the Dataset
 - Loading data
 - Describing data
 - Visualizations
 - Find missings
 
-(Friday 22 july)
-<b> 2. DATA CLEANING
+
+<b> 2. DATA CLEANING (Friday 22 july)
 - Fixing something
 - Visualizations
 
-(Friday 22 july)
-<b> 3. MODELING (categorical target= binary target)
+
+<b> 3. MODELING  (Friday 22 july)
 - Spliting (80-20)
 - Scaling
-- Model applications
+- Model applications (categorical target= binary target)
 - Visualizations
 
 <b> 4. Results

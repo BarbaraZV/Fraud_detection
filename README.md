@@ -13,19 +13,20 @@ To decrease this issue we will use various predictive models to see how accurate
 ## Getting Started
 
 ### Methodology 
-
+(Thuersday 21 july)
 <b> 1. EDA
 - About the Dataset
 - Loading data
 - Describing data
 - Visualizations
-- Find missings??
-- Look correlations (defining the target= "is_fraud")
+- Find missings
 
+(Friday 22 july)
 <b> 2. DATA CLEANING
-- Fixing something?
+- Fixing something
 - Visualizations
 
+(Friday 22 july)
 <b> 3. MODELING (categorical target= binary target)
 - Spliting (80-20)
 - Scaling
